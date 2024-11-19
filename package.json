@@ -1,0 +1,22 @@
+{
+  "name": "ajs_node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanDvornichenko/ajs_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanDvornichenko/ajs_node/issues"
+  },
+  "homepage": "https://github.com/IvanDvornichenko/ajs_node#readme",
+  "description": "",
+  "dependencies": {
+    "@ivandvornichenko/ajs": "^1.0.0"
+  }
+}
